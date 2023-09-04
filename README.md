@@ -1,5 +1,5 @@
 # GlosarioCH31
-Glosario de términos técnicos aprendidos en el CH31
+Glosario de términos técnicos aprendidos en el CH31 y otros investigados por mi cuenta
 
 - **HTML (HyperText Markup Language)**: Lenguaje de marcado utilizado para crear la estructura y el contenido de una página web.
 
