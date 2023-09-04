@@ -7,10 +7,14 @@ Glosario de términos técnicos aprendidos en el CH31 y otros investigados por m
 
 - **JavaScript**: Lenguaje de programación que permite agregar interactividad y funcionalidad dinámica a las páginas web.
   - **Variable**: Un contenedor para almacenar datos.
+    - **Variable Global**: Una variable declarada fuera de cualquier función, que es accesible desde cualquier parte del código.
+    - **Variable Local**: Una variable declarada dentro de una función, que solo es accesible dentro de esa función.
   - **Función**: Un bloque de código reutilizable que realiza una tarea específica.
   - **Condición**: Una declaración que permite ejecutar diferentes acciones según una condición, como `if` o `else`.
   - **Bucle**: Una estructura que permite repetir una serie de instrucciones, como `for` o `while`.
   - **Evento**: Una acción detectada por el navegador, como hacer clic en un botón.
+  - **Scope**: El contexto en el que una variable o función se define y puede ser accedida en JavaScript.
+  - **Hoisting**: Un comportamiento en JavaScript donde las declaraciones de variables y funciones se mueven al inicio de su ámbito antes de la ejecución del código. Esto significa que puedes usar una variable o función antes de declararla, aunque su valor real se asignará en el lugar donde se declaró.
 
 - **Front-end**: La parte de desarrollo web que se enfoca en la interfaz de usuario y la experiencia del usuario en el navegador.
 
