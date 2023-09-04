@@ -6,11 +6,11 @@ Glosario de términos técnicos aprendidos en el CH31 y otros investigados por m
 - **CSS (Cascading Style Sheets)**: Lenguaje de estilo utilizado para dar formato y diseño a las páginas web.
 
 - **JavaScript**: Lenguaje de programación que permite agregar interactividad y funcionalidad dinámica a las páginas web.
-- - **Variable**: Un contenedor para almacenar datos.
-- - **Función**: Un bloque de código reutilizable que realiza una tarea específica.
-- - **Condición**: Una declaración que permite ejecutar diferentes acciones según una condición, como `if` o `else`.
-- - **Bucle**: Una estructura que permite repetir una serie de instrucciones, como `for` o `while`.
-- - **Evento**: Una acción detectada por el navegador, como hacer clic en un botón.
+  - **Variable**: Un contenedor para almacenar datos.
+  - **Función**: Un bloque de código reutilizable que realiza una tarea específica.
+  - **Condición**: Una declaración que permite ejecutar diferentes acciones según una condición, como `if` o `else`.
+  - **Bucle**: Una estructura que permite repetir una serie de instrucciones, como `for` o `while`.
+  - **Evento**: Una acción detectada por el navegador, como hacer clic en un botón.
 
 - **Front-end**: La parte de desarrollo web que se enfoca en la interfaz de usuario y la experiencia del usuario en el navegador.
 
