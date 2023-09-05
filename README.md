@@ -10,6 +10,7 @@ Glosario de términos técnicos aprendidos en el CH31 y otros investigados por m
     - **Variable Global**: Una variable declarada fuera de cualquier función, que es accesible desde cualquier parte del código.
     - **Variable Local**: Una variable declarada dentro de una función, que solo es accesible dentro de esa función.
   - **Función**: Un bloque de código reutilizable que realiza una tarea específica.
+  - - **Funciones Anónimas**: Funciones que no tienen un nombre identificativo y, a menudo, se definen en línea, como argumentos para otras funciones o para realizar tareas temporales.
   - **Condición**: Una declaración que permite ejecutar diferentes acciones según una condición, como `if` o `else`.
   - **Bucle**: Una estructura que permite repetir una serie de instrucciones, como `for` o `while`.
   - **Evento**: Una acción detectada por el navegador, como hacer clic en un botón.
